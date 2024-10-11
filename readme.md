@@ -23,7 +23,7 @@ It’s a full-on MERN stack app, and you’ll get to see the data in action in r
 ## Tech Stack 🛠️
 - **Frontend:** React.js ⚛️
 - **Backend:** Node.js + Express.js 🌐
-- **Database:** SQL 🍃
+- **Database:** SQL Lite3 🍃
 - **Charts:** Recharts 📈
 - **API Requests:** Fetch 🔄
 
@@ -92,7 +92,7 @@ note: Both step 2 and 3 on differnet terminals at same time.
 
 ### 4. Run the backend:
 ```bash
-npm start
+node index.js
 ```
 
 ### 5. Run the frontend:
