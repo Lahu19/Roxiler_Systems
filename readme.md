@@ -114,3 +114,6 @@ And boom! You’re ready to go! 🎉
 
 ## Contributing 🤝
 Want to make this project even better? Feel free to fork the repo, create issues, or submit pull requests! Let’s build something awesome together. 💪
+
+## 📽️ Demo Video
+[**Watch the Demo Video**](https://youtu.be/mfEu3KaGvMM) 🎥
